@@ -1,0 +1,8 @@
+===========================================================
+Name :               shiva sai
+Class :              10
+Father's  Name:      sathish
+Mother's  Name:      lakshmi
+Phone Number:        9948881312
+Address:             Akaram(v),Nalgonda
+===========================================================
